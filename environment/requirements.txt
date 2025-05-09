@@ -1,2 +1,9 @@
-# Dependencies of the project.
-scikit-learn==1.6.1
+# Depencies of the project.
+pandas==2.2.3
+numpy==2.2.5
+sklearn==1.6.1
+xgb==3.0.0
+matplotlib==3.10.1
+seaborn==0.13.2
+plotly==6.0.1
+isodate==0.7.2
