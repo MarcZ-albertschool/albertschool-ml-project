@@ -22,6 +22,7 @@ Use the local package manager [%pip] to install each librairies, while aligning 
 %pip install seaborn
 %pip install plotly
 %pip install isodate
+%pip install requests
 ```
 
 ## Models
