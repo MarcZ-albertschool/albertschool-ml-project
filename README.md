@@ -6,6 +6,7 @@ This project is done in the context of the "Achieving a ML Proof-of-Concept" cou
 
 We choosed to work with the YouTube API (V3), with the goal of predicting the performances of certain YouTube channels' videos and shorts (so predicting their views, likes, and comments).
 The channel we will apply our models to is [Shortcat](https://www.youtube.com/@Shortcat321).
+The associated presentation is in the following link : [https://www.canva.com/design/DAGnI8HH8_Y/MoAqkQhCjjK7zrxYX_uUYQ/edit?utm_content=DAGnI8HH8_Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGnI8HH8_Y/MoAqkQhCjjK7zrxYX_uUYQ/edit?utm_content=DAGnI8HH8_Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Environment & Installation
 
