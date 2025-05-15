@@ -2,7 +2,8 @@
 pandas==2.2.3
 numpy==2.2.5
 sklearn==1.6.1
-xgb==3.0.0
+xgboost==3.0.0
+lightgbm==4.6.0
 matplotlib==3.10.1
 seaborn==0.13.2
 plotly==6.0.1

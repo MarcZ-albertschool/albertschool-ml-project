@@ -4,8 +4,8 @@ This project is done in the context of the "Achieving a ML Proof-of-Concept" cou
 
 ## Description
 
-We choosed to work with the YouTube API (V3), with the goal of predicting the performances of certain YouTube channels' videos and shorts (so predicting their views and likes).
-The channel we choosed to work with is [Shortcat](https://www.youtube.com/@Shortcat321), and we will extend this to others depending on the results of our models.
+We choosed to work with the YouTube API (V3), with the goal of predicting the performances of certain YouTube channels' videos and shorts (so predicting their views, likes, and comments).
+The channel we will apply our models to is [Shortcat](https://www.youtube.com/@Shortcat321).
 
 ## Environment & Installation
 
@@ -18,17 +18,17 @@ Use the local package manager [%pip] to install each librairies, while aligning 
 %pip install numpy
 %pip install scikit-learn
 %pip install xgboost
+%pip install lightgbm
 %pip install matplotlib
 %pip install seaborn
-%pip install plotly
 %pip install isodate
 %pip install requests
 ```
 
 ## Models
 
-We will start by testing a linear regression. Then, our options are: random forest, and a boosting model.
-We will consider every videos before 2025, as the predictions will be on the long term, seeing how it is not practical to do lauching predictions without historical data.
+We will use : Random Forest, Ridge, LightGBM, XGBoost.
+We will consider every videos before February 2025, as the predictions will be on the long term, seeing how it is not practical to do lauching predictions without historical data.
 
 ## Contributing
 
